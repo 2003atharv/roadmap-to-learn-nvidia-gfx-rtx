@@ -64,6 +64,9 @@ This repository provides a comprehensive roadmap for learning NVIDIA graphics te
   - [NVIDIA Developer Forums](https://forums.developer.nvidia.com/)
   - [r/GraphicsProgramming on Reddit](https://www.reddit.com/r/GraphicsProgramming/)
 
+## 10. NVIDIA BLOG
+- **NVIDIA BLOG SPOT / IMPORTANT UPDATES:**
+- [LINK BLOG SPOT](https://www.nvidia.com/en-us/) 
 ---
 
 Feel free to contribute, add resources, and share your learning experiences!
